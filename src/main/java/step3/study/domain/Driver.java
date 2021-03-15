@@ -11,8 +11,8 @@ public class Driver {
         this.car = car;
     }
 
-    public void moveCar(int randomNumber) {
-        car.move(randomNumber);
+    public void moveCar(int number) {
+        car.move(number);
     }
 
     public String getName() {
